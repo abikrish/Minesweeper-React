@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A small minesweeper project done in react to shake off rust and get familiar with the framework.
 
+![minesweeper](https://i.imgur.com/SMAsmJi.png)
+
 ## Live Demo
 https://codepen.io/anon/pen/zmEyjr
 
